@@ -1,7 +1,2 @@
 # GRP-4-SE-2023
-ogogogo
-uclcl
-gogohl
-
-
-kgogoh
+<h1 Style="color:white;">le titre </h1>
